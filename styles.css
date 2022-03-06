@@ -9,15 +9,17 @@
   margin: auto;
   text-align: center;
   font-family: 'Brygada 1918', serif;
+  color: whitesmoke;
   font-size: 5rem;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 3px 0 #232931;
 }
 
 .instructions {
   margin: auto;
   text-align: center;
   font-family: 'Brygada 1918', serif;
-  text-shadow: 5px 0 #232931;
+  color: whitesmoke;
+  text-shadow: 3px 0 #232931;
 }
 
 
@@ -39,6 +41,7 @@
   text-align: center;
   text-transform: uppercase;
   display: inline-block;
+  margin: 10px 60px;
 
 }
 
@@ -54,11 +57,27 @@ h1 {
   color: whitesmoke;
 }
 
-p {
+.uno {
+  background-color: #F90716;
+  font-size: 2rem;
+  color: whitesmoke;
+  text-shadow: 3px 0 #232931;
+  font-family: 'Brygada 1918', serif;
+}
+
+.dos {
+  background-color: #FFCA03;
+  font-size: 2rem;
+  color: whitesmoke;
+  text-shadow: 3px 0 #232931;
+  font-family: 'Brygada 1918', serif;
+}
+
+/* p {
   font-size: 2rem;
   color: whitesmoke;
   font-family: 'Brygada 1918', serif;
-}
+} */
 
 img {
   width: 80%;
