@@ -1,6 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Brygada+1918:wght@400;700&display=swap');
 
 
+.instructions_div {
+  padding: 30px;
+}
+
+.refresh {
+  margin: auto;
+  text-align: center;
+  font-family: 'Brygada 1918', serif;
+  font-size: 5rem;
+  text-shadow: 5px 0 #232931;
+}
+
+.instructions {
+  margin: auto;
+  text-align: center;
+  font-family: 'Brygada 1918', serif;
+  text-shadow: 5px 0 #232931;
+}
+
+
 .container {
   width: 70%;
   margin: auto;
